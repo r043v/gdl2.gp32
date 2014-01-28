@@ -1,0 +1,16 @@
+PRZYSTAN
+
+Map Format: Shorts(2 Bytes)
+
+Map Size: 20x16 tiles
+Gfx Tile Size: 32x32 pixels
+
+Tiles File Size: 1x158 tiles
+
+Files Generated:
+  C:\devkitPro\project\template\include\gfx\PRZYSTAN.map
+  C:\devkitPro\project\template\include\gfx\PRZYSTAN_Tiles.bmp
+  C:\devkitPro\project\template\include\gfx\PRZYSTAN_Info.txt
+
+Process Started: 00:47:35
+Process Ended: 00:47:36
